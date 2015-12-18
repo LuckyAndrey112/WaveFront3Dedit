@@ -1,0 +1,42 @@
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\3d Editor WaveFront.exe.config
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\3d Editor WaveFront.exe
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\3d Editor WaveFront.pdb
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.dll
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.pdb
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.xml
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.WinForms.xml
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\obj\Debug\WavefrontEditor.csprojResolveAssemblyReference.cache
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\obj\Debug\PolygonLoadingSample.wfEditor.resources
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\obj\Debug\PolygonLoadingSample.Properties.Resources.resources
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\obj\Debug\WavefrontEditor.csproj.GenerateResource.Cache
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\obj\Debug\3d Editor WaveFront.exe
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\obj\Debug\3d Editor WaveFront.pdb
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\FileFormatWavefront.dll
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\FileFormatWavefront.pdb
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Debug\FileFormatWavefront.xml
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\3d Editor WaveFront.exe.config
+D:\Camera\WavefrontEditor\WavefrontEditor\obj\Debug\3d Editor WaveFront.exe
+D:\Camera\WavefrontEditor\WavefrontEditor\obj\Debug\3d Editor WaveFront.pdb
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\3d Editor WaveFront.exe
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\3d Editor WaveFront.pdb
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\FileFormatWavefront.dll
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.dll
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.SceneGraph.dll
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.WinForms.dll
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\FileFormatWavefront.pdb
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\FileFormatWavefront.xml
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.pdb
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.xml
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.SceneGraph.xml
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.WinForms.pdb
+D:\Camera\WavefrontEditor\WavefrontEditor\bin\Debug\SharpGL.WinForms.xml
+D:\Camera\WavefrontEditor\WavefrontEditor\obj\Debug\WavefrontEditor.csprojResolveAssemblyReference.cache
+D:\Camera\WavefrontEditor\WavefrontEditor\obj\Debug\PolygonLoadingSample.wfEditor.resources
+D:\Camera\WavefrontEditor\WavefrontEditor\obj\Debug\PolygonLoadingSample.Properties.Resources.resources
+D:\Camera\WavefrontEditor\WavefrontEditor\obj\Debug\WavefrontEditor.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\3d Editor WaveFront.exe.config
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\3d Editor WaveFront.exe
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\3d Editor WaveFront.pdb
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\SharpGL.dll
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\SharpGL.SceneGraph.dll
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\SharpGL.WinForms.dll
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\SharpGL.pdb
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\SharpGL.xml
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\SharpGL.SceneGraph.pdb
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\SharpGL.SceneGraph.xml
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\SharpGL.WinForms.pdb
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\SharpGL.WinForms.xml
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\obj\Release\WavefrontEditor.csprojResolveAssemblyReference.cache
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\obj\Release\PolygonLoadingSample.wfEditor.resources
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\obj\Release\PolygonLoadingSample.Properties.Resources.resources
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\obj\Release\WavefrontEditor.csproj.GenerateResource.Cache
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\obj\Release\3d Editor WaveFront.exe
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\obj\Release\3d Editor WaveFront.pdb
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\FileFormatWavefront.dll
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\FileFormatWavefront.pdb
+C:\Users\Dimas\Documents\Visual Studio 2015\Projects\WavefrontEditor\WavefrontEditor\bin\Release\FileFormatWavefront.xml
